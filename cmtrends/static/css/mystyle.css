@@ -1,0 +1,48 @@
+#mystyle{
+    border: none;
+    width:100%;
+	height:30px;
+	overflow:hidden;
+    transition:all 1s;
+    background: url("../img/mano.jpg");
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    padding-top: 0px;
+    padding-left: 10px;
+}
+
+.tab-content #mystyle:hover{
+    height:340px;
+    color: #000000;
+    background: url("../img/mano1.jpg") ;
+    background-repeat: no-repeat;
+    border: none;
+}
+#mystyle:hover{
+    height:200px;
+    color: #000000;
+    background: url("../img/mano1.jpg") ;
+    background-repeat: no-repeat;
+    border: none;
+}
+#mystyle h4 {
+    margin-top: 0px;
+}
+
+#navbar-right{
+    float: right;
+    border: solid;
+    padding-right: 10px;
+    width: 250px;
+    height: 150px;
+
+}
+#page-wrapper nav{
+    padding: 0px;
+}
+
+div.list-group{
+    height: 480px;
+    width: 100%;
+    overflow: scroll;
+}
