@@ -44,8 +44,8 @@ INSTALLED_APPS = (
 
 # oauth-tokens settings
 OAUTH_TOKENS_HISTORY = True # to keep in DB expired access tokens
-OAUTH_TOKENS_TWITTER_CLIENT_ID = 'GWeRI5t9Mwnl2MaEvtQLz0iY9' # application ID
-OAUTH_TOKENS_TWITTER_CLIENT_SECRET = 'lZDbjmfE95X0kYWnSoQ1gW6zBpWRThSLHte1Tv8ZyZXH2A4vuK' # application secret key
+OAUTH_TOKENS_TWITTER_CLIENT_ID = 'gAiFpONpJqniQ8iUx74nQfMm1' # application ID
+OAUTH_TOKENS_TWITTER_CLIENT_SECRET = 'fR2YA4bM4urcfD1DNzezMxl4i3scOIDhXxXXVtIbN7IEFGiA3R' # application secret key
 OAUTH_TOKENS_TWITTER_USERNAME = 'CMobileTrends' # user login
 OAUTH_TOKENS_TWITTER_PASSWORD = 'devcmtrends' # user password
 
