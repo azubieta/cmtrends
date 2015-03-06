@@ -36,10 +36,14 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+	## Twitter
     'oauth_tokens',
     'm2m_history',
     'taggit',
     'twitter_api',
+	## Dajax 
+	'dajaxice',
+	'dajax',
 )
 
 # oauth-tokens settings
